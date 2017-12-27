@@ -43,11 +43,11 @@ $ az account list
 [
   {
     "cloudName": "AzureCloud",
-    "id": "e2e299e7-d4e5-4d9a-8a87-4958e5a171ee",
+    "id": "__ID_SHOWN_HERE__",
     "isDefault": true,
     "name": "Free Trial",
     "state": "Enabled",
-    "tenantId": "bf127ef1-3a58-4bb0-866a-2296a45fcd64",
+    "tenantId": "__TENANT_ID_SHOWN_HERE__",
     "user": {
       "name": "james7088@gmail.com",
       "type": "user"
